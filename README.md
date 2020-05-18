@@ -37,7 +37,7 @@ The project aims to design a sounding rocket given a set of design parameters, w
 
 
 
-<img src="/figures/rocket_geometry.png" width="65" height="70">
+<img src="/figures/rocket_geometry.png" width="293" height="533">
 
 
 You can use the [editor on GitHub](https://github.com/K-ayesha/Rocket_Design_Class_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
