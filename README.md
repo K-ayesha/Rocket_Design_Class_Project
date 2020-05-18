@@ -1,5 +1,10 @@
-## Project: Rocket Design and "Fly"
-# UB-MAE 423: Introduction to Propulsion
+## Final Project: Rocket Design and "Fly"
+### UB-MAE 423: Introduction to Propulsion
+
+
+The project aims to design a sounding rocket given a set of design parameters, with the focus of maximizing the efficiency. 
+
+
 
 You can use the [editor on GitHub](https://github.com/K-ayesha/Rocket_Design_Class_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
