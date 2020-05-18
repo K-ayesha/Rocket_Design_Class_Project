@@ -4,6 +4,7 @@
 
 The project aims to design a sounding rocket given a set of design parameters, with the focus of maximizing the efficiency.
 
+### Table 1: Design Input Parameters
 | Input Parameter  |    Description of Parameter          |    Assigned value    |
 |:----------------:|---------------------------------------|----------------------|
 |        M_L       |    Payload mass                       |    1 Kg              |
@@ -15,7 +16,7 @@ The project aims to design a sounding rocket given a set of design parameters, w
 |       sigma_s    |    Shell working stress               |    60 MPa            |
 |         N        |    Number of fins                     |    3                 |
 
-
+### Table 2: Design Output Parameters
 |    Output Parameter    |    Description of Parameter                                       |
 |------------------------|-------------------------------------------------------------------|
 |       R                |    Initial to burnout mass ratio                                  |
