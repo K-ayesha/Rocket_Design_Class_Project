@@ -1,5 +1,5 @@
 ## Final Project: Rocket Design and "Fly"
-### UB-MAE 423: Introduction to Propulsion
+### UB-MAE 423: Introduction to Propulsion []
 
 
 The project aims to design a sounding rocket given a set of design parameters, with the focus of maximizing the efficiency.
@@ -38,7 +38,7 @@ The project aims to design a sounding rocket given a set of design parameters, w
 
 ![Rocket Geometry](/figures/rocket_geometry.png)
 
-### Figure 1: Parameterized Rocket Geometry. 
+### Figure 1: Parameterized Rocket Geometry []. 
 
 
 
