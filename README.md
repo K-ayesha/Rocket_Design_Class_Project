@@ -35,7 +35,7 @@ The project aims to design a sounding rocket given a set of design parameters, w
 |       lambda           |    The ratio of the specific heats                                |
 |       epsilon          |    The ratio of mass, M_s/(M_P + M_s)                             |
 
-![Rocket Geometry](/figures/rocket_geometry.png = 65)
+![Rocket Geometry](/figures/rocket_geometry.png = 65x60
 
 
 You can use the [editor on GitHub](https://github.com/K-ayesha/Rocket_Design_Class_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
