@@ -6,7 +6,7 @@ The project aims to design a sounding rocket given a set of design parameters, w
 
 |    Parameter    |    Description of Parameter        |    Assigned value    |
 |-----------------|------------------------------------|----------------------|
-|     $M_L$       |    Payload mass                    |    1 Kg              |
+|     $'M_L'$       |    Payload mass                    |    1 Kg              |
 |                 |    Maximum altitude                |    10k, 20k, 20k     |
 |                 |    Normalized max. acceleration    |    5, 10, 20         |
 |    SM           |    Static margin =   /D            |    1, 2, 3           |
