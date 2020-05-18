@@ -2,7 +2,7 @@
 ### UB-MAE 423: Introduction to Propulsion
 
 
-The project aims to design a sounding rocket given a set of design parameters, with the focus of maximizing the efficiency. 
+The project aims to design a sounding rocket given a set of design parameters, with the focus of maximizing the efficiency. $`M_L`$
 
 |    Parameter    |    Description of Parameter        |    Assigned value    |
 |-----------------|------------------------------------|----------------------|
