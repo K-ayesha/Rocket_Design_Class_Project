@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Project: Rocket Design and "Fly"
+# UB-MAE 423: Introduction to Propulsion
 
 You can use the [editor on GitHub](https://github.com/K-ayesha/Rocket_Design_Class_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
