@@ -4,7 +4,16 @@
 
 The project aims to design a sounding rocket given a set of design parameters, with the focus of maximizing the efficiency. 
 
-
+|    Parameter    |    Description of Parameter        |    Assigned value    |
+|-----------------|------------------------------------|----------------------|
+|     $M_L$       |    Payload mass                    |    1 Kg              |
+|                 |    Maximum altitude                |    10k, 20k, 20k     |
+|                 |    Normalized max. acceleration    |    5, 10, 20         |
+|    SM           |    Static margin =   /D            |    1, 2, 3           |
+|                 |    Shell (Aluminum) density        |    2700              |
+|                 |    Propellant density              |    1772              |
+|                 |    Shell working stress            |    60 MPa            |
+|    N            |    Number of fins                  |    3                 |
 
 You can use the [editor on GitHub](https://github.com/K-ayesha/Rocket_Design_Class_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
