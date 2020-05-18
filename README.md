@@ -15,6 +15,23 @@ The project aims to design a sounding rocket given a set of design parameters, w
 |       sigma_s    |    Shell working stress               |    60 MPa            |
 |         N        |    Number of fins                     |    3                 |
 
+
+|    Output Parameter    |    Description of Parameter                                       |
+|------------------------|-------------------------------------------------------------------|
+|       R                |    Initial to burnout mass ratio                                  |
+|       W_eq             |    Equivalent/effective velocity of gas at nozzle exhaust         |
+|       t_b              |    Burn time                                                      |
+|       P_o              |    Exit Pressure                                                  |
+|       D                |    Diameter of the rocket tube/ Height of rocket nose and fins    |
+|       L                |    Length of the rocket tube                                      |
+|      delta/D           |    Thickness to D ratio                                           |
+|       X_CG             |    Center of mass/gravity                                         |
+|       X_CP             |    Center of pressure                                             |
+|       M_P              |    Propellant mass                                                |
+|       M_o              |    Total mass                                                     |
+|       lambda           |    The ratio of the specific heats                                |
+|       epsilon          |    The ratio of mass, M_s/(M_P + M_s)                             |
+
 You can use the [editor on GitHub](https://github.com/K-ayesha/Rocket_Design_Class_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
