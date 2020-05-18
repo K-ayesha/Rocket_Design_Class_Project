@@ -41,6 +41,7 @@ The project aims to design a sounding rocket given a set of design parameters, w
 ### Figure 1: Parameterized Rocket Geometry []. 
 
 For more details please see [GitHub Repository](https://https://github.com/K-ayesha/Rocket_Design_Class_Project).
+
 <!-- 
 You can use the [editor on GitHub](https://github.com/K-ayesha/Rocket_Design_Class_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
