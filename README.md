@@ -6,7 +6,7 @@ The project aims to design a sounding rocket given a set of design parameters, w
 
 ### Table 1: Design Input Parameters
 
-| Input Parameter  |    Description of Parameter          |    Assigned value    |
+| Input Parameter  |    Description of Parameter           |    Assigned value    |
 |:----------------:|---------------------------------------|----------------------|
 |        M_L       |    Payload mass                       |    1 Kg              |
 |        h_max     |    Maximum altitude                   |    10k, 20k, 20k     |
