@@ -46,11 +46,9 @@ Figure 2 (a & b) below shows that for the increase in maximum height from10,000 
 
 ![Altitude_Effect](/figures/fig_hmax_1.png)                 ![Altitude_Effect](/figures/fig_hmax_2.png)
 
-	                    		(a)                                                                    			(b)
+	                    		(a)                                                           (b)
 
 #### Figure 2: Design changes for h_max variation
-
-
 
 For more details please see [GitHub Repository](https://https://github.com/K-ayesha/Rocket_Design_Class_Project).
 <!-- 
