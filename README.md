@@ -35,7 +35,7 @@ The project aims to design a sounding rocket given a set of design parameters, w
 |       epsilon          |    The ratio of mass, M_s/(M_P + M_s)                             |
 
 The rocket geometry under consideration for this project is as follows: 
-![Rocket Geometry](/figures/rocket_geometry.png?style=centerme)
+![Rocket Geometry](/figures/rocket_geometry.pngstyle=centerme)
 
 #### Figure 1: Parameterized Rocket Geometry. 
 
