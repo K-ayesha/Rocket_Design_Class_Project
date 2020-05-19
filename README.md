@@ -46,9 +46,16 @@ Figure 2 (a & b) below shows that for the increase in maximum height from10,000 
 
 ![Altitude_Effect](/figures/fig_hmax_1.png)                 ![Altitude_Effect](/figures/fig_hmax_2.png)
 
-	                    		(a)                                                           (b)
-
+	                    	(a)                                                           (b)
 #### Figure 2: Design changes for h_max variation
+
+#### Design changes with normalized maximum acceleration, a_max^* variation: 
+The lower value of 5 and the upper value of 20 was under consideration to understand the effect of a_max^* change. For higher acceleration, the burn time and velocity logarithmically decrease in around 50%. Therefore, it shows that to achieve a higher acceleration for a rocket, it is very crucial to select a propellant and rocket structure that can efficiently minimize burn time. Also, the weight of the propellant, as well as the overall structure has a negligible (around 2%) effect on acceleration. 
+
+![Acceleration_Effect](/figures/fig_amax_1.png)                 ![Altitude_Effect](/figures/fig_amax_2.png)
+
+#### 	                    	(a)                                                           (b)
+#### Figure 2: Design changes for a_max^* variation
 
 For more details please see [GitHub Repository](https://https://github.com/K-ayesha/Rocket_Design_Class_Project).
 <!-- 
