@@ -67,10 +67,24 @@ For idealized case, the h_max,V_(r,max)  and a_max^*, with respect to the flight
 
 ![Ideal Case](/figures/plot_sim1.png)             
 #### Figure 4: Rocket performance profile for ideal case (Drag force=0)
+The simulation agrees to the calculated value of with 6% error in maximum height and 3% in acceleration. The rocket also satisfies the baseline conditions with approximately 7% error. This result makes sense as the performance profile agrees with the theoretical height, velocity, and acceleration values.
 
+#### Drag Effects: 
+Figure 5 below shows the realistic performance profile for the rocket under the drag effects. If compared to Fig. 4, the results show a significant decrease in performance as expected. This result because the effect of drag is very impactful in rocket performance as opposed to ideal conditions with no drag. So, with the addition of drag effects, the rocket with same design shows around 74% performance decay from the baseline condition under ideal case consideration.
 
+![Non-ideal Case](/figures/plot_sim2.png)  
+This result makes sense because, realistically rockets can have around 25% efficiency, and the simulation results show a similar result.
+
+The effects of different geometry selction for rocket structure, structural material selection and propellent selection have also been observed in this section, which are included in the extended version of the report.
+
+The overall project helped me to learn the aspects of theoretical rocket design and the realistic rocket performance with the environmental and structural limitation involved as opposed to the performance under ideal environment. 
+
+### Reference: 
+[1] Paul Desjardin. "Class Lecture - MAE 423: Introduction to Propulsion, Spring 2020." https://buffalo.app.box.com/s/8om64mmkqq3qflveaxufp90ofymasz17. Accessed 12 May 2020.
+[2] James Barrowman. “Calculating the Center of Pressure of a Model Rocket.” http://www.rockets4schools.org/images/Calculating.pdf. Accessed 12 May 2020.
 
 For more details please see [GitHub Repository](https://https://github.com/K-ayesha/Rocket_Design_Class_Project).
+
 <!-- 
 You can use the [editor on GitHub](https://github.com/K-ayesha/Rocket_Design_Class_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
