@@ -54,8 +54,20 @@ The lower value of 5 and the upper value of 20 was under consideration to unders
 
 ![Acceleration_Effect](/figures/fig_amax_1.png)                 ![Altitude_Effect](/figures/fig_amax_2.png)
 
-#### 	                    	(a)                                                           (b)
-#### Figure 2: Design changes for a_max^* variation
+ 	                    	(a)                                                           (b)
+#### Figure 3: Design changes for a_max^* variation
+
+#### Part II
+The designed rocket was simulated with the baseline condition h_max=20,000 ft,a_max^*=10,SM=2
+The simulated results as ovserved from OpenRocket are lsited below:
+
+#### Ideal Vertical Case: 
+In an ideal situation we neglect the drag effect, which allows assuming ideal case with maximum efficiencies. So, the expected performance is much higher than the realistic condition.
+For idealized case, the h_max,V_(r,max)  and a_max^*, with respect to the flight time is shown in the Fig.4 below:
+
+![Ideal Case](/figures/plot_sim1.png)             
+#### Figure 4: Rocket performance profile for ideal case (Drag force=0)
+
 
 For more details please see [GitHub Repository](https://https://github.com/K-ayesha/Rocket_Design_Class_Project).
 <!-- 
