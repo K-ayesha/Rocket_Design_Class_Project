@@ -1,10 +1,9 @@
 ## Final Project: Rocket Design and "Fly"
-### UB-MAE 423: Introduction to Propulsion []
-
+### UB-MAE 423: Introduction to Propulsion
 
 The project aims to design a sounding rocket given a set of design parameters, with the focus of maximizing the efficiency.
 
-### Table 1: Design Input Parameters
+#### Table 1: Design Input Parameters
 
 | Input Parameter  |    Description of Parameter           |    Assigned value    |
 |:----------------:|---------------------------------------|----------------------|
@@ -17,7 +16,7 @@ The project aims to design a sounding rocket given a set of design parameters, w
 |       sigma_s    |    Shell working stress               |    60 MPa            |
 |         N        |    Number of fins                     |    3                 |
 
-### Table 2: Design Output Parameters
+#### Table 2: Design Output Parameters
 
 |    Output Parameter    |    Description of Parameter                                       |
 |------------------------|-------------------------------------------------------------------|
@@ -47,7 +46,7 @@ Figure 2 (a & b) below shows that for the increase in maximum height from10,000 
 
 ![Altitude_Effect](/figures/fig_hmax_1.png)                 ![Altitude_Effect](/figures/fig_hmax_2.png)
 
-	                    ####(a)                                                                    ####(b)
+	                    		(a)                                                                    			(b)
 
 #### Figure 2: Design changes for h_max variation
 
