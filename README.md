@@ -36,8 +36,11 @@ The project aims to design a sounding rocket given a set of design parameters, w
 
 The rocket geometry under consideration for this project is as follows: 
 
+<div align="center">
 ![Rocket Geometry](/figures/rocket_geometry.png)
 
+#### Figure 1: Parameterized Rocket Geometry.
+</div>
 
 ### Results:
 ### Part I
