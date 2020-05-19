@@ -38,10 +38,15 @@ The project aims to design a sounding rocket given a set of design parameters, w
 
 ![Rocket Geometry](/figures/rocket_geometry.png)
 
-### Figure 1: Parameterized Rocket Geometry []. 
+### Figure 1: Parameterized Rocket Geometry. 
+
+### Results:
+#### Part I
+Design changes with h_max variation: Figure 2 (a & b) below shows that for the increase in maximum height from10,000 ft to 30,000 ft, the required burn time and velocity increases by around 40%. While the burn time and equivalent velocity are so impactful to attain a higher destination, the X_CG  and X_CPdoes not change drastically for the higher altitude. The changes in the X_CG  and X_CP are in fact less than 1% for variations in h_max.
+
+![Rocket Geometry](/figures/rocket_geometry.png)
 
 For more details please see [GitHub Repository](https://https://github.com/K-ayesha/Rocket_Design_Class_Project).
-
 <!-- 
 You can use the [editor on GitHub](https://github.com/K-ayesha/Rocket_Design_Class_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
