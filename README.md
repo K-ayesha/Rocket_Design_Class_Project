@@ -85,9 +85,17 @@ The overall project helped me to learn the aspects of theoretical rocket design 
 
 [2] James Barrowman. “Calculating the Center of Pressure of a Model Rocket.” http://www.rockets4schools.org/images/Calculating.pdf. Accessed 12 May 2020.
 
-#### For more details please visit: [GitHub Repository](https://https://github.com/K-ayesha/Rocket_Design_Class_Project).
+
+
+
+
+
+
+
+
 
 <!-- 
+#### For more details please visit: [GitHub Repository](https://https://github.com/K-ayesha/Rocket_Design_Class_Project).
 You can use the [editor on GitHub](https://github.com/K-ayesha/Rocket_Design_Class_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
