@@ -83,7 +83,7 @@ The overall project helped me to learn the aspects of theoretical rocket design 
 [1] Paul Desjardin. "Class Lecture - MAE 423: Introduction to Propulsion, Spring 2020." https://buffalo.app.box.com/s/8om64mmkqq3qflveaxufp90ofymasz17. Accessed 12 May 2020.
 [2] James Barrowman. “Calculating the Center of Pressure of a Model Rocket.” http://www.rockets4schools.org/images/Calculating.pdf. Accessed 12 May 2020.
 
-For more details please see [GitHub Repository](https://https://github.com/K-ayesha/Rocket_Design_Class_Project).
+#### For more details please visit: [GitHub Repository](https://https://github.com/K-ayesha/Rocket_Design_Class_Project).
 
 <!-- 
 You can use the [editor on GitHub](https://github.com/K-ayesha/Rocket_Design_Class_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
