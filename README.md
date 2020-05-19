@@ -40,7 +40,7 @@ The project aims to design a sounding rocket given a set of design parameters, w
 #### Figure 1: Parameterized Rocket Geometry. 
 
 ### Results:
-#### Part I
+### Part I
 #### Design changes with maximum altitude, h_max variation:
 Figure 2 (a & b) below shows that for the increase in maximum height from10,000 ft to 30,000 ft, the required burn time and velocity increases by around 40%. While the burn time and equivalent velocity are so impactful to attain a higher destination, the X_CG  and X_CPdoes not change drastically for the higher altitude. The changes in the X_CG  and X_CP are in fact less than 1% for variations in h_max.
 
@@ -57,7 +57,7 @@ The lower value of 5 and the upper value of 20 was under consideration to unders
  	                    	(a)                                                           (b)
 #### Figure 3: Design changes for a_max^* variation
 
-#### Part II
+### Part II
 The designed rocket was simulated with the baseline condition h_max=20,000 ft,a_max^*=10,SM=2
 The simulated results as ovserved from OpenRocket are lsited below:
 
@@ -67,6 +67,7 @@ For idealized case, the h_max,V_(r,max)  and a_max^*, with respect to the flight
 
 ![Ideal Case](/figures/plot_sim1.png)             
 #### Figure 4: Rocket performance profile for ideal case (Drag force=0)
+
 
 
 For more details please see [GitHub Repository](https://https://github.com/K-ayesha/Rocket_Design_Class_Project).
